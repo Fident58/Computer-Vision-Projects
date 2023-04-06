@@ -797,3 +797,4 @@ Commit on 2023-04-05 00:00:00 - Update requirements and dependencies
 Commit on 2023-04-05 00:00:00 - Fix minor bug in model evaluation
 Commit on 2023-04-05 00:00:00 - Update requirements and dependencies
 Commit on 2023-04-06 00:00:00 - Refactor data cleaning pipeline
+Commit on 2023-04-06 00:00:00 - Fix minor bug in model evaluation
