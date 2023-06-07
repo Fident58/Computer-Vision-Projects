@@ -270,3 +270,4 @@ Commit on 2023-06-06 00:00:00 - Add new feature for image processing
 Commit on 2023-06-07 00:00:00 - Update project documentation
 Commit on 2023-06-07 00:00:00 - Refactor data cleaning pipeline
 Commit on 2023-06-07 00:00:00 - Update project documentation
+Commit on 2023-06-07 00:00:00 - Add unit tests for core modules
