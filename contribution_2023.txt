@@ -1041,3 +1041,4 @@ Commit on 2023-09-12 00:00:00 - Refactor data cleaning pipeline
 Commit on 2023-09-13 00:00:00 - Update requirements and dependencies
 Commit on 2023-09-13 00:00:00 - Optimize neural network layers
 Commit on 2023-09-13 00:00:00 - Update project documentation
+Commit on 2023-09-14 00:00:00 - Add unit tests for core modules
