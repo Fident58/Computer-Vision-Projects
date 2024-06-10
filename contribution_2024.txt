@@ -870,3 +870,4 @@ Commit on 2024-06-07 00:00:00 - Refactor data cleaning pipeline
 Commit on 2024-06-07 00:00:00 - Fix minor bug in model evaluation
 Commit on 2024-06-07 00:00:00 - Update project documentation
 Commit on 2024-06-07 00:00:00 - Fix minor bug in model evaluation
+Commit on 2024-06-10 00:00:00 - Update requirements and dependencies
