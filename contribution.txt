@@ -245,3 +245,4 @@ Commit on 2026-01-06 00:00:00 - Refine visualization scripts
 Commit on 2026-01-07 00:00:00 - Refine visualization scripts
 Commit on 2026-01-12 00:00:00 - Fix bug in data preprocessing script
 Commit on 2026-01-13 00:00:00 - Update dependencies and requirements.txt
+Commit on 2026-01-14 00:00:00 - Improve logging and error handling
